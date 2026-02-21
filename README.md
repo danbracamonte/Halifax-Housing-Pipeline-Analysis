@@ -1,9 +1,9 @@
-# 🏘️ AI-Powered Analysis of Halifax's Housing Development Pipeline
+# AI-Powered Analysis of Halifax's Housing Development Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
 [![GitHub last commit](https://github.com/danbracamonte/Halifax-Housing-Pipeline-Analysis)](https://github.com/danbracamonte/Halifax-Housing-Pipeline-Analysis)
 
-## 📌 Project Overview
+## Project Overview
 This repository contains my capstone project for the **Growth: Data Analytics & AI - Skills for Hire Atlantic** program. It goes beyond a simple dashboard to create an **intelligent system** that analyzes, predicts, and queries Halifax's housing development pipeline using public building permit data.
 
 The core goal is to demonstrate a full-stack data science workflow:

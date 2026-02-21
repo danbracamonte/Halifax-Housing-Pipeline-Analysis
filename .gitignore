@@ -1,0 +1,32 @@
+# Ignorar archivos de datos (nunca subir datos raw al repo)
+# Ignore data files (never upload raw data to the repo)
+data/raw/
+*.csv
+*.geojson
+*.zip
+
+# Entornos virtuales
+# Virtual environments
+venv/
+env/
+myenv/
+.env
+
+# Archivos de caché de Python
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de configuración de APIs (crea un ejemplo .env.example si es necesario)
+# API configuration files (create an example .env.example if necessary)
+.env
+
+# Modelos entrenados (pueden ser muy grandes)
+# Trained models (can be very large)
+*.pkl
+*.h5
+*.joblib
